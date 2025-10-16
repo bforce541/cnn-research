@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual env
+cnn_research_env/
+.venv/
+
+.DS_Store
+
+.vscode/
+.idea/
+
+cifar-10-batches-py/
+cifar-10-python.tar.gz
+data/
+artifacts/
+logs/
+results/
+checkpoints/
+*.h5
+*.keras
+*.npz
+*.npy
+*.pkl
+*.ckpt
